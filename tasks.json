@@ -1,0 +1,22 @@
+[
+    {
+        "title": "do python projects",
+        "done": true
+    },
+    {
+        "title": "learn ReactJS",
+        "done": false
+    },
+    {
+        "title": "make portfolio",
+        "done": false
+    },
+    {
+        "title": "build resume stronger",
+        "done": false
+    },
+    {
+        "title": "apply for internships",
+        "done": false
+    }
+]
